@@ -64,8 +64,6 @@ User will be satisfied, and Developers have better chances to earn & grow.
 
 ## Links
 - Contract Address: [0xCEa14b51d4E2811b7799fF29A6B6b532f5B27A87 (Base)](https://sepolia.basescan.org/address/0xCEa14b51d4E2811b7799fF29A6B6b532f5B27A87#code)
-- Deployed Project: 
-- Project Template: [https://phaser.io/news/2024/03/official-phaser-3-and-nextjs-template](https://phaser.io/news/2024/03/official-phaser-3-and-nextjs-template)
 
 ***Phaser Next JS Template for Sprite Characters & Environment***
 
