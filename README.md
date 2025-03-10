@@ -65,7 +65,6 @@ User will be satisfied, and Developers have better chances to earn & grow.
 ## Links
 - Contract Address: [0xCEa14b51d4E2811b7799fF29A6B6b532f5B27A87 (Base)](https://sepolia.basescan.org/address/0xCEa14b51d4E2811b7799fF29A6B6b532f5B27A87#code)
 
-***Phaser Next JS Template for Sprite Characters & Environment***
 
 ## Technical Implementation
 - NEXT JS
